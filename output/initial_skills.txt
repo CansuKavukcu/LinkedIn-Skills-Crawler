@@ -1,3 +1,4 @@
+technical skills
 ajenti
 django-suit
 django-xadmin
@@ -434,9 +435,9 @@ devpi
 localshop
 carteblanche
 django-guardian
-
+ 
 django-rules
-delegator.pysubprocessesfor
+delegator.py subprocesses for
 sarge
 sh
 celery
@@ -507,7 +508,7 @@ relatorio
 unoconv
 xlsxwriter
 xlwings
-xlwt/xlrd
+xlwt / xlrd
 pdf
 pdfminer
 pypdf2
@@ -517,7 +518,7 @@ mistune
 python-markdown
 yaml
 pyyaml
-
+ 
 csvkit
 unp
 cactus
@@ -657,40 +658,40 @@ swift
 matlab
 clojure
 octave
-machinelearning
-dataanalytics
-predictiveanalytics
+machine learning
+data analytics
+predictive analytics
 html
 js
-accountspayable
+accounts payable
 receivables
-inventorycontrols
+inventory controls
 payroll
 deposits
-bankreconciliation
-planningandenactingcash-flows
-reportpreparation
-financialmodels
-financialcontrols
+bank reconciliation
+planning and enacting cash-flows
+report preparation
+financial models
+financial controls
 documentation
-timemanagement
+time management
 schedules
 benchmarking
-futurestateassessment
-businessprocessre-engineering
-as-isanalysis
-definingsolutionsandscope
-gapanalysis
-rolechange
+future state assessment
+business process re-engineering
+as-is analysis
+defining solutions and scope
+gap analysis
+role change
 wireframing
 prototyping
-userstories
-financialanalysis/modeling
-swotanalysis
+user stories
+financial analysis/modeling
+swot analysis
 quickbooks
 quicken
 erp
-enterpriseresourceplanning
+enterprise resource planning
 spanish
 german
 rest
@@ -712,20 +713,20 @@ redhat
 solaris
 java
 perl
-vbscript
+vb script
 xml
 database
 oracle
-microsoftsql
+microsoft sql
 sql
-microsoftword
-microsoftpowerpoint
+microsoft word
+microsoft powerpoint
 powerpoint
 word
 excel
 visio
-microsoftvisio
-microsoftexcel
+microsoft visio
+microsoft excel
 adobe
 photoshop
 hadoop
@@ -733,9 +734,9 @@ hbase
 hive
 zookeeper
 openserver
-autocad
+auto cad
 pl/sql
-rubyonrails
+ruby on rails
 asp
 jsp
 operations
@@ -752,10 +753,10 @@ engineering
 policies
 budget
 finance
-project
+project 
 management
 health
-customerservice
+customer service
 content
 presentation
 brand
@@ -763,7 +764,7 @@ presentations
 safety
 certification
 seo
-digitalmarketing
+digital marketing
 accounting
 regulations
 legal
@@ -784,43 +785,43 @@ scheduling
 construction
 logistics
 mobile
-c�(programminglanguage)
+c�(programming language)
 correspondence
 controls
-humanresources
+human resources
 specifications
 recruitment
 procurement
 partnership
 partnerships
-managementexperience
+management experience
 negotiation
 hardware
 programming
 agile
 forecasting
 advertising
-businessdevelopment
+business development
 audit
 architecture
-supplychain
+supply chain
 governance
 staffing
-continuousimprovement
-productdevelopment
+continuous improvement
+product development
 networking
 recruiting
-productmanagement
+product management
 sap
 troubleshooting
-computerscience
+computer science
 budgeting
 electrical
-customerexperience
+customer experience
 economics
-informationtechnology
+information technology
 transportation
-socialmedia
+social media
 automation
 lifecycle
 filing
@@ -835,26 +836,26 @@ acquisition
 expenses
 billing
 workflow
-productowner
+product owner
 analyze
-crossfunctional
-businessprocess
+cross functional
+business process
 process
 improvement
-pivottables
+pivot tables
 pivot
 vlookups
 sharepoint
-microsoftsharepoint
-accessdatabase
+microsoft sharepoint
+access database
 access
-testcase
+test case
 jira
 tfs
-hpalm
+hp alm
 tableau
-businessobject
-businessintelligence
+business object
+business intelligence
 jad
 solicitation
 kaban
@@ -862,39 +863,39 @@ vue.js
 sketch
 indesign
 illustrator
-
+ 
 english
 french
-activedirectory
-datacenter
-solutionarchitecture
+active directory
+data center
+solution architecture
 dns
-networkdesign
-opensource
-desktopsupport
-applicationsupport
+network design
+open source
+desktop support
+application support
 administration
-changemanagement
+change management
 video
 invoices
-administrativesupport
+administrative support
 payments
 lean
-processimprovement
+process improvement
 installation
-riskmanagement
+risk management
 transactions
 investigations
-r(programminglanguage)
-dataanalysis
+r (programming language)
+data analysis
 statistics
 protocols
-programmanagement
-qualityassurance
+program management
+quality assurance
 banking
 outreach
 sourcing
-microsoftoffice
+microsoft office
 merchandising
 r
 teaching
@@ -902,355 +903,355 @@ pharmaceutical
 fulfillment
 positioning
 tax
-servicedelivery
+service delivery
 investigate
 editorial
-accountmanagement
-validdriverslicense
-
+account management
+valid drivers license
+ 
 electronics
 pr
-publicrelations
+public relations
 assembly
 facebook
 spreadsheets
 recruit
 proposal
-dataentry
+data entry
 hotel
 ordering
 branding
-lifecycle
-realestate
-relationshipmanagement
+life cycle
+real estate
+relationship management
 researching
-processimprovements
+process improvements
 chemistry
 saas
 cad
-salesexperience
+sales experience
 mathematics
 customer-facing
 audio
-projectmanagementskills
-sixsigma
+project management skills
+six sigma
 hospitality
-mechanicalengineering
+mechanical engineering
 auditing
-employeerelations
+employee relations
 android
-securityclearance
+security clearance
 licensing
 fundraising
 repairs
 iso
-marketresearch
-businessstrategy
+market research
+business strategy
 pmp
-datamanagement
-qualitycontrol
+data management
+quality control
 reconciliation
 conversion
-businessanalysis
-financialanalysis
+business analysis
+financial analysis
 ecommerce
-clientservice
+client service
 publishing
 supervising
-complexprojects
-keyperformanceindicators
+complex projects
+key performance indicators
 scrum
 sports
 e-commerce
 journalism
-d(programminglanguage)
-datacollection
-highereducation
-marketingprograms
-financialmanagement
-businessplans
-userexperience
-clientrelationships
+d (programming language)
+data collection
+higher education
+marketing programs
+financial management
+business plans
+user experience
+client relationships
 cloud
-analyticalskills
+analytical skills
 cisco
-internalstakeholders
-productmarketing
-regulatoryrequirements
+internal stakeholders
+product marketing
+regulatory requirements
 itil
-
-informationsecurity
+ 
+information security
 aviation
-supplychainmanagement
-industryexperience
+supply chain management
+industry experience
 autocad
-purchaseorders
+purchase orders
 acquisitions
 tv
 instrumentation
-strategicdirection
-lawenforcement
-callcenter
+strategic direction
+law enforcement
+call center
 experiments
-technicalskills.1
-humanresource
-businesscases
-buildrelationships
+technical skills.1
+human resource
+business cases
+build relationships
 invoicing
-supportservices
-marketingstrategy
-operatingsystems
+support services
+marketing strategy
+operating systems
 biology
 start-up
-electricalengineering
+electrical engineering
 workflows
 routing
 non-profit
-marketingplans
-duediligence
-businessmanagement
+marketing plans
+due diligence
+business management
 iphone
 architectures
 reconcile
-
-dynamicenvironment
-externalpartners
-assetmanagement
+ 
+dynamic environment
+external partners
+asset management
 emea
 intranet
 sops
 sas
-digitalmedia
+digital media
 prospecting
-financialreporting
-projectdelivery
-operationalexcellence
-standardoperatingprocedures
-technicalknowledge
+financial reporting
+project delivery
+operational excellence
+standard operating procedures
+technical knowledge
 on-call
-talentmanagement
-stakeholdermanagement
+talent management
+stakeholder management
 tablets
-analyzedata
-financialstatements
-microsoftofficesuite
+analyze data
+financial statements
+microsoft office suite
 fitness
-casemanagement
-valueproposition
-industrytrends
+case management
+value proposition
+industry trends
 rfp
 broadcast
-portfoliomanagement
+portfolio management
 fabrication
-financialperformance
-customerrequirements
+financial performance
+customer requirements
 psychology
-marketingmaterials
-resourcemanagement
+marketing materials
+resource management
 physics
 mortgage
-developmentactivities
-enduser
-businessplanning
-rootcause
+development activities
+end user
+business planning
+root cause
 analysis
-leadershipdevelopment
-relationshipbuilding
+leadership development
+relationship building
 sdlc
 on-boarding
-qualitystandards
-regulatorycompliance
-
+quality standards
+regulatory compliance
+ 
 aws
 kpi
-statusreports
-productline
+status reports
+product line
 drafting
-phonecalls
-productknowledge
-businessstakeholders
-technicalissues
+phone calls
+product knowledge
+business stakeholders
+technical issues
 admissions
-supervisoryexperience
+supervisory experience
 usability
 pharmacy
 commissioning
-projectplan
-msexcel
+project plan
+ms excel
 fda
-testplans
+test plans
 variances
 financing
-travelarrangements
-internalcustomers
-medicaldevice
+travel arrangements
+internal customers
+medical device
 counsel
-inventorymanagement
-performancemetrics
+inventory management
+performance metrics
 lighting
 outsourcing
-performanceimprovement
-managementconsulting
-graphicdesign
+performance improvement
+management consulting
+graphic design
 transport
-informationmanagement
+information management
 .net
 startup
 matrix
 front-end
-projectplanning
-businesssystems
-accountsreceivable
-publichealth
+project planning
+business systems
+accounts receivable
+public health
 hris
-instructionaldesign
+instructional design
 in-store
-employeeengagement
-costeffective
-salesmanagement
+employee engagement
+cost effective
+sales management
 api
-adobecreativesuite
+adobe creative suite
 twitter
-programdevelopment
-eventplanning
-cashflow
-strategicplans
-vendormanagement
-tradeshows
+program development
+event planning
+cash flow
+strategic plans
+vendor management
+trade shows
 hotels
 segmentation
-contractmanagement
+contract management
 gis
-talentacquisition
+talent acquisition
 photography
-internalcommunications
-clientservices
+internal communications
+client services
 ibm
-financialreports
-productquality
+financial reports
+product quality
 beverage
-stronganalyticalskills
+strong analytical skills
 underwriting
 cpr
 mining
-salesgoals
+sales goals
 chemicals
 scripting
 migration
-softwareengineering
+software engineering
 mis
 therapeutic
-generalledger
-msproject
+general ledger
+ms project
 standardization
 retention
 spelling
-mediarelations
+media relations
 os
-dailyoperations
+daily operations
 immigration
-productdesign
+product design
 etl
-fieldsales
-drivingrecord
+field sales
+driving record
 peoplesoft
 benchmark
-qualitymanagement
+quality management
 apis
-testcases
-internalcontrols
+test cases
+internal controls
 telecom
-businessissues
-researchprojects
-dataquality
-strategicinitiatives
-officesoftware
+business issues
+research projects
+data quality
+strategic initiatives
+office software
 cfa
 co-op
-bigdata
-journalentries
+big data
+journal entries
 vmware
-helpdesk
-statisticalanalysis
+help desk
+statistical analysis
 datasets
 alliances
 solidworks
 prototype
 lan
 sci
-budgetmanagement
+budget management
 rfps
 flex
 gaap
 experimental
 cpg
-informationsystem
-customerfacing
-processdevelopment
-webservices
+information system
+customer facing
+process development
+web services
 international
 travel
-revenuegrowth
-softwaredevelopmentlifecycle
-operationsmanagement
-computerapplications
-riskassessments
-salesoperations
-rawmaterials
-internalaudit
-physicalsecurity
-sqlserver
+revenue growth
+software development life cycle
+operations management
+computer applications
+risk assessments
+sales operations
+raw materials
+internal audit
+physical security
+sql server
 affiliate
-computersoftware
-manageprojects
-businesscontinuity
+computer software
+manage projects
+business continuity
 litigation
-itinfrastructure
-costreduction
-smallbusiness
-annualbudget
+it infrastructure
+cost reduction
+small business
+annual budget
 ios
 html5
 real-time
-consultingexperience
+consulting experience
 circuits
-riskassessment
-cross-functionalteam
-publicpolicy
-analyzingdata
-consultingservices
-googledrive
-adwords
-payperclick
+risk assessment
+cross-functional team
+public policy
+analyzing data
+consulting services
+google drive
+ad words
+pay per click
 email
 db2
-expensetracking
+expense tracking
 reports
 wordpress
 yoast
 ghostwriting
-coreldraw
-automatedbilling
+corel draw
+automated billing
 system
-customermanagement
+customer management
 debugging
-systemadministration
-networkconfiguration
-softwareinstallation
+system administration
+network configuration
+software installation
 security
-techsupport
+tech support
 updates
 tci/ip
 dhcp
 wan/lan
 ubuntu
-virtualizednetworks
-networkautomation
-cloudmanagement
+virtualized networks
+network automation
+cloud management
 ai
 salesforce
-mangodb
+mango db
 math
 calculus
-productlaunch
+product launch
 mvp
